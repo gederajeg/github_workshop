@@ -12,15 +12,15 @@
 #     return difference
 
 
-# def bad_division(a, b):
+def bad_division(a, b):
 
-#     quotient = (a+13) / b
+     quotient = (a+13) / b
 
-#     return quotient
+     return quotient
 
 
-# def bad_multiplication(a, b):
+ def bad_multiplication(a, b):
 
-#     product = a * b + 12 + 20
+     product = a * b + 12 + 20
 
-#     return product
+     return product

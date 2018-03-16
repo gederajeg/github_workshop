@@ -1,15 +1,15 @@
-# def addition(a, b):
+ def addition(a, b):
 
-#     summation = a + b
+     summation = a + b
 
-#     return summation
+     return summation
 
 
-# def subtraction(a, b):
+ def subtraction(a, b):
 
-#     difference = a - b
+     difference = a - b
 
-#     return difference
+     return difference
 
 
 # def division(a, b):
